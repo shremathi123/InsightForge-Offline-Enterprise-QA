@@ -70,14 +70,7 @@ Resume & portfolio project
 
 👩‍💻 Author
 
-Shremathi (Shre)
+Shremathi K
 Engineering Student – CSE
 
 
-👉 Save this in `README.md`
-
-Then run:
-```bash
-git add README.md
-git commit -m "Add detailed README"
-git push
